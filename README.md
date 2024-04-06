@@ -1,5 +1,5 @@
 # Python-data-analytics-quiz-1
-This is my first project in python data analytics, I processed the survey data from Stack Overflow,using Pandas lybrary my code will display :
+This is my first project in python data analytics, I processed the survey data from Stack Overflow,using Pandas library my code will display :
 desired rows and columns of the table,
 indexing of a specific column of the table;
 2 parameter dependent filter.
